@@ -1,0 +1,23 @@
+{
+  "name": "yahoo-weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-airbnb": "^17.1.0",
+    "oauth": "^0.9.15",
+    "querystring": "^0.2.0",
+    "request": "^2.88.0",
+    "yarg": "^1.0.8",
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
